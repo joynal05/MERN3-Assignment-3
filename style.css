@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Times New Roman', Times, serif;
+}
+
+
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+body{
+    min-height: 80vh;
+    background: #a9a19d;
+}
+
+.clock{
+    color: #fff;
+    background: #1981ff;
+    width: 543px;
+    padding: 20px 45px;
+    box-shadow: 0 5px 25px rgb(6, 6, 88);
+    border-radius: 10px;
+    font-size: 70px;
+}
